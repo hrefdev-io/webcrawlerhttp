@@ -1,0 +1,23 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "Project from the Learn HTTP Course on YouTube",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrefdev-io/webcrawlerhttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrefdev-io/webcrawlerhttp/issues"
+  },
+  "homepage": "https://github.com/hrefdev-io/webcrawlerhttp#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
